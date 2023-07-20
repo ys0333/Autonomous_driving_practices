@@ -1,2 +1,2 @@
-# Autonomous_driving_practices
+# Autonomous_driving_practice
 Camera_Vision
