@@ -1,4 +1,4 @@
-# 2018 lane detector using opencv only
+#lane detector using opencv only
 
 ## About main codes(classes)
 * LinePointDetector: 차선 검출을 위해 차선 위의 점을 찾는 클래스
