@@ -1,0 +1,5 @@
+<launch>
+	<node name="traffic_light" pkg="traffic_light" type="traffic_light" output="screen">  		
+	</node>
+
+</launch>
